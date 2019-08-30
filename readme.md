@@ -1,0 +1,2 @@
+# Tag!
+Tag is a game that was originally written in ProcessingJS 4 years ago by ADHDGaming. To check out the original game, which is much smoother, please visit https://khanacademy.org/profile/ADHDGaming/ . If you would like to download this, you will have to build it yourself, which requires an SFML installation along with a compiler of your choice. THe /bin folder contains a compiled linux executable for Ubuntu users. 
